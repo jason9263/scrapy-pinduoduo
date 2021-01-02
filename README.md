@@ -29,12 +29,11 @@
 =======
 
 ![数据展示](https://github.com/jason9263/scrapy-pinduoduo/blob/master/scpture.jpg?raw=true)
+
 ![爬虫结构](https://github.com/jason9263/scrapy-pinduoduo/blob/master/crawler.png?raw=true)
 
 
-
-联系作者
-Fork author: junweizhang23@gmail.com
+DDIA_JZ author: junweizhang23@gmail.com
 -------
 
 欢迎issue

@@ -28,7 +28,7 @@
 截图展示
 =======
 
-![数据展示](https://github.com/OFZFZS/scrapy-pinduoduo/blob/master/scpture.jpg?raw=true)
+![数据展示](https://github.com/jason9263/scrapy-pinduoduo/blob/master/scpture.jpg?raw=true)
 
 
 

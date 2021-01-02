@@ -29,7 +29,7 @@
 =======
 
 ![数据展示](https://github.com/jason9263/scrapy-pinduoduo/blob/master/scpture.jpg?raw=true)
-  (https://github.com/jason9263/scrapy-pinduoduo/blob/master/crawler.png?raw=true)
+![爬虫结构](https://github.com/jason9263/scrapy-pinduoduo/blob/master/crawler.png?raw=true)
 
 
 
